@@ -1,9 +1,8 @@
 #!/bin/bash
-#n kljdfsvfgjbvjfsvsfdhvbsfiuo
 
-#teste.edicao
+#ATUALIZADO-02/10/2023-14-18
 
-#Testando nova edicaofdsvfvfd
+
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 
 if [ "$(whoami)" != "root" ] ; then
