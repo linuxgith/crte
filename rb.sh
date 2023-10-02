@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#ATUALIZADO-02/10/2023-14-28
+#ATUALIZADO-02/10/2023-14-36
 
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
